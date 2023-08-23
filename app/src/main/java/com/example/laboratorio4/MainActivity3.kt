@@ -83,7 +83,7 @@ fun CardTerciaria(@DrawableRes id: Int){
                 .height(1.dp)
                 .background(Color(232, 232, 232))
         )
-         Row(
+        Row(
             modifier = Modifier
                 .padding(2.dp),
             verticalAlignment = Alignment.CenterVertically
